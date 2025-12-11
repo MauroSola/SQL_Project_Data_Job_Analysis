@@ -65,8 +65,7 @@ LIMIT 10
 ```
 Here's the breakdown of the top data analyst jobs in 2023 for the specified LATAM Countries:
 - **Wide Salary Range**: Top 10 paying data analyst roles span from $64,000 USD to $156,000 USD, indicating significant salary potential in the field.
-- **Diverse Employers**: Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
-- **Job Title Variety**: There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
+- **Job Title Variety**: There's a high diversity in job titles, from Data Analyst to Data Architect, reflecting varied roles and specializations within data analytics.
 
 ![Screenshot of Graph showing the chart for query 1](project_sql\query1chart.png)
 
@@ -146,8 +145,9 @@ LIMIT 5
 
 Here's the breakdown of the most demanded skills for data analysts in 2023
 
-    SQL and Excel remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
-    Programming and Visualization Tools like Python, Tableau, and Power BI are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
+- **SQL and Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
+
+- **Programming and Visualization Tools** like **Python, Tableau, and Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
 
 | demand_count  | Skills |
@@ -278,15 +278,15 @@ ORDER BY
 | oracle     | 2                   | 62734      |
 
 - **High-Value Cloud & Big Data Skills:**
-Cloud platforms like Databricks and AWS combine strong salaries ($128,500 each) with steady demand (2 postings each). 
-Azure also ranks highly with a salary of $106,433 and 3 postings, highlighting that cloud-driven analytics remains one of the most financially rewarding areas.
+Cloud platforms like **Databricks and AWS** combine strong salaries ($128,500 each) with steady demand (2 postings each). 
+**Azure** also ranks highly with a salary of $106,433 and 3 postings, highlighting that cloud-driven analytics remains one of the most financially rewarding areas.
 
 - **Core Programming & Data Manipulation Skills:**
-Python stands out with one of the highest demand counts (7 postings) and a competitive average salary of $104,643, showing it's still a foundational skill for analysts who work with modeling, automation, or data pipelines. 
-SQL, with the highest demand in the list (9 postings) and a salary near $89,845, remains essential for querying and managing data across industries.
+P**ython stands out with one of the highest demand counts (7 postings) and a competitive average salary of $104,643, showing it's still a foundational skill for analysts who work with modeling, automation, or data pipelines. 
+**SQL**, with the highest demand in the list (9 postings) and a salary near $89,845, remains essential for querying and managing data across industries.
 
 - **Business Intelligence & Traditional Analytics Tools:**
-Tools like Power BI (4 postings, $81,117), Excel (3 postings, $65,300), and Tableau (3 postings, $63,000) continue to be widely required for reporting and visualization. Oracle (2 postings, $62,734) reflects ongoing demand for classic database systems, especially in enterprise environments
+Tools like **Power BI** (4 postings, $81,117), **Excel** (3 postings, $65,300), and **Tableau** (3 postings, $63,000) continue to be widely required for reporting and visualization. **Oracle** (2 postings, $62,734) reflects ongoing demand for classic database systems, especially in enterprise environments
 
 
 # What I've learned
